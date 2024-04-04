@@ -2,7 +2,7 @@ package tax;
 
 public class Person 
 {
-	//data menbers
+	//data menber
 	private String name;
 	private int income;
 	private String gender;

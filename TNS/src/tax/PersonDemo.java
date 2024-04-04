@@ -10,7 +10,7 @@ public class PersonDemo {
 		String name=ob.next();
 		System.out.println("enter age");
 		int age=ob.nextInt();
-		System.out.println("enter Taxable Income");
+		System.out.println("enter Taxable Income.");
 		int income=ob.nextInt();
 		System.out.println("enter gender");
 		String gender=ob.next();
